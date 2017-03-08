@@ -1,0 +1,1 @@
+BOSS.Report.MonthReport.init();
