@@ -12,6 +12,8 @@ use think\View;
 class Login extends Controller {
     public function login(){
 //        return view('login:login');
+//        echo ROOT_PATH.'public/widget/css';
+//        echo THINK_PATH  ;
         return $this->fetch();
     }
 }
