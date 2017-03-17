@@ -5,6 +5,7 @@ class Index extends Base
 {
     public function index()
     {
-        echo 'pipwire';
+//        echo 'sere';die();
+        return $this->fetch();
     }
 }
